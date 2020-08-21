@@ -98,4 +98,3 @@
         </div>
     </body>
 </html>
-<?php /**PATH C:\OSPanel\domains\laravel-vue-spa\resources\views/welcome.blade.php ENDPATH**/ ?>
