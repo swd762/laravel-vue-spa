@@ -23,7 +23,7 @@ class CheckIsAdminOrSelf
         ){
             return $next($request);
         }
-        else return response()->josn([
+        else return response()->json([
             'error'=>'Unauthorized'
         ], 403);
     }
